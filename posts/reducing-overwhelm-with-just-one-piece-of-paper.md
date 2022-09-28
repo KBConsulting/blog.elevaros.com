@@ -1,23 +1,47 @@
 
-Date: October 30, 2018
+Date: November 4, 2019
 Link: reducing-overwhelm-with-just-one-piece-of-paper
 Tags:
 
-Negotiation: Getting to Yes
-============================
 
-Over the past few weeks, Kirsty and I have been in the midst of a move from the suburbs back to the city. Now that we’re just about settled in, I had the opportunity to do a little exploring in my new neighborhood: Denver’s Park Hill.
+Reducing Overwhelm with Just One Piece of Paper
+===============================================
 
-While looking for a local coffee shop, I stumbled upon a real gem – the Park Hill Community Bookstore. From the outside, it is a small place with just a few books, but hidden inside there are three levels of nothing but used books. I spent a solid hour there, and I rediscovered a great book that I hadn’t seen since the early 2000s: Getting to Yes by Roger Fisher and William Ury. Published in 1981, Getting to Yes was part of my college curriculum and even though I forgot about the book for a time, I’ve been using Fisher and Ury’s framework throughout my career.
+One common refrain I hear from technologists is, “When am I ever supposed to get any work done?”
 
-If you haven’t read it, I encourage you to find a copy. It is a quick read at 160 pages, but it contains a wealth of information to help you be a better tech.
+The biggest challenge working in technology is the amount of information and distraction that hits us all day, every day. It seemingly never stops.
 
-You might be asking, “How does an old book on negotiation help advance my technical career?” Believe it or not, you negotiate every day with customers, coworkers, and management. Consider the last time you had an impatient customer who was upset that a system wasn’t working correctly. You probably talked to them about the issue and explained the process you would take to resolve it. Typically, this action helps to diffuse the emotion of the issue – already you’ve done step one of the process: Separate the People from the Problem. Well done!
+You’ve got emails, Slack, or Microsoft Teams (or if you’re really “lucky” BOTH!), text messages, ticketing systems, ringing phones, drive-by customers with urgent needs, coworkers with critical issues, etc. And that’s just the start. Adding on the back-to-back meetings and boom — you’re overwhelmed, and it’s not even 10 am yet! The crawl of heartburn creeps up your throat as you think about it all.
 
-The second element of artful negotiation is Focus on Interests, not Positions. An easy example of this is the manager/employee relationship. The manager’s position is she needs more work out of her team. The employee’s position is prevent being overworked. If the two of them only focus on their positions, there can be conflict. However, if both focus on shared interests instead, the relationship can be much smoother. In this example, a great shared interest is ‘happy customers.’ If the employees are overworked, customer service can falter, and neither the employee or the manager wants poor customer service out of their team.
+Once you’re buried in the overwhelm of distractions and workload, it feels as if you’ll never get out. With that in mind, it’s hard to be motivated.
 
-When there is a conflict, even if it is minor, it is important to take the time to Invent Options for Mutual Gain, the third point. Before trying to reach an agreement, make sure you have thought creatively about potential options that could be pleasing to all parties. In the manager/employee relationship example above, this could be something like changing schedules to better accommodate workloads or reallocating staff to different tasks that are better suited to meeting the shared interest of ‘happy customers’ found in the second step.
+So what do you do? You can stand up like Michael Scott in _The Office_ and yell, “I declare bankruptcy!” and it will work for you as well as it did for him — which is not at all.
 
-And the fourth and final element is Insist on Using Objective Criteria. This point is related to step one in that it is helpful to minimize emotion from the solution. It’s not enough to have a solution that FEELS better – is it actually better? How do you measure customer satisfaction? Agreeing on how potential solutions will be measured clearly defined, measurable criteria will result in better outcomes for all involved.
+You could quit your job and find another one. But unless you fix the problem, you’ll be right where you are again in no time, even at your shiny, fresh new job.
 
-My challenge for you this week is to look for opportunities to use these techniques in your negotiations – I bet you’ll find you’ll have happier customers, coworkers, and managers as a result!
+What’s the answer? As with so many things, it’s all about mindset. If you have the mindset now that you’ll get everything done with perfection, it’s time to let that go. On the flip side, if you have the mindset that you’ll never get this under control, and it’s just your destiny to always be buried, that attitude needs to go too.
+
+The new mindset is positive yet realistic:  
+1) You can manage this.  
+2) You’ll get better at it over time.  
+3) You can do anything, but you can’t do everything.
+
+#### Take Control: Your First Step
+
+There isn’t anything much more simple than a piece of paper and a pen.  
+This is your new system for the next week. Seriously. Find one — any blank piece of paper — and remove all distractions for the next fifteen minutes. On this paper, you’re going to do one thing: write down every commitment you can think of out of your head and on this paper. Don’t limit it only to work or home life. If you’ve made a commitment to someone else or yourself, write it down.
+
+Your brain is terrible at tracking commitments. And if you depend on it for that, you’ll clog it up and leave no room for creative thought.
+
+Every time you take on a new assignment or are given a task, it goes on this piece of paper. If you’re exceptionally busy, filling both the front and back of the paper, just grab another one and keep it up. As you complete things, cross each one off. Your mission ISN’T to cross everything off. Rather, it’s to get the right things done. Remember, you can do anything. But you can’t do everything.
+
+#### How do you determine what is the right thing to do right now? It depends.
+
+What to do next is all about context: what can you do right now? And what is your energy level? For example, if the most important thing on your list is to document a new system you’re building, it doesn’t do you much good to try to work on that if you’re away from your computer or if your energy is low. That’s the power of the list! If you had a big lunch and got the afternoon doldrums, then you probably can’t do the work on your most impactful project. So pick some things that take less energy and focus. This way, you’re productive even as your energy levels ebb and flow.
+
+We can’t manage time. It continues, no matter how productive we are. But we can manage our energy levels and work around them.
+
+Using something as simple as one piece of paper is contradictory to most of us in technology. We want software and systems and complexity to solve complex problems. But in reality, we don’t need it. Some of the most effective solutions are the simplest.
+
+Trust your one piece of paper. It’s simple but extremely effective. As you learn to work with your commitments on it, you can layer on things that help you. Then, you’ll have a system that is yours, and it’ll help you get the right work done at the right time.
+
