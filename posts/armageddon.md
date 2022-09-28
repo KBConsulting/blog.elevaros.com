@@ -1,4 +1,10 @@
-Armageddon
+Date: October 30, 2018
+Link: armageddon
+Tags:
+
+
+
+#Armageddon
 ==========
 
 “The entire Internet is down”  the CFO’s admin assistant tells you as you walk past his office.
@@ -32,5 +38,3 @@ Here’s a list of important considerations to prepare for the next major outage
 6) Always follow through with a post-crisis review meeting with all parties involved. Openly and honestly discuss potential improvements in the crisis management process as well as steps to help prevent future outages.
 
 Following these steps and being disciplined about them will help you run better IT services for your organization. The open communication with those you serve will continue to build trust and rapport which is essential to a great organization.
-
-*   October 30, 2018
