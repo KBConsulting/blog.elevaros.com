@@ -1,3 +1,7 @@
+Date: February 3, 2020
+Link: how-to-get-anything-you-want
+Tags:
+
 How to Get Anything You Want
 ============================
 
@@ -28,5 +32,3 @@ What are the things your inner monologue is telling you right now? Are they posi
 Take the time to listen to them – no matter how quiet or loud they are. Decide right now to make a habit that when you tell yourself something negative, you replace it with something positive. The more you replace negativity with empowering words, the more you will produce positive results in your life. 
 
 Today can be the day it all turns around. And it starts with you deciding you’re good enough as you are.  
-
-*   February 3, 2020

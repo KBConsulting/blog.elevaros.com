@@ -1,3 +1,7 @@
+Date: December 17, 2018
+Link: the-self-imposed-blind-spot
+Tags:
+
 The Self-Imposed Blind Spot
 ===========================
 
@@ -26,5 +30,3 @@ I’ve seen this scene repeat itself over and over in a multitude of contexts. O
 I believe these are self-imposed blind spots—places we are confident are “good” but really could use a second or even third look at all the details.
 
 The next time you’re in a troubleshooting scenario, especially if it has a significant impact and you’re working with a team of others, don’t discount any area that could be causing the issue as “that can’t be it” or “it’s not my stuff.” A great strategy for this is to say, “I don’t think it is me, but I will take a look over all the settings again and make sure they are all set correctly,” and actually do that. This action will save you and your team a lot of grief and frustration while looking for the culprit in your complex troubleshooting scenario.
-
-*   December 17, 2018

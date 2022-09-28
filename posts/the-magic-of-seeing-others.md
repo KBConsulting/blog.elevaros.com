@@ -1,3 +1,7 @@
+Date: March 23, 2020
+Link: the-magic-of-seeing-others
+Tags:
+
 The Magic of Seeing Others
 ==========================
 
@@ -16,5 +20,3 @@ Seth Godin in his May 4, 2014 [blog post](https://seths.blog/2014/05/to-be-seen
 So get out there and “see” others. And watch the magic happen.
 
 It is just that simple.
-
-*   March 23, 2020

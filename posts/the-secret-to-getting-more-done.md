@@ -1,3 +1,7 @@
+Date: March 25, 2019
+Link: the-secret-to-getting-more-done
+Tags:
+
 The Secret to Getting More Done
 ===============================
 
@@ -22,5 +26,3 @@ If you’re continually fighting your system, then you’re not as productive as
 The secret to getting more done is simple: do what works FOR YOU. There is no one system, technique, or toolset that works for everyone – and the ones that you’re more attracted to are the ones that will make the most significant difference in your work.
 
 Find the system and techniques that work best for you, and you’ll unlock YOUR secret to getting more done.
-
-*   March 25, 2019

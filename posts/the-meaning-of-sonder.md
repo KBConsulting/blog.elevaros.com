@@ -1,3 +1,7 @@
+Date: October 17, 2019
+Link: the-meaning-of-sonder
+Tags:
+
 The Meaning of Sonder
 =====================
 
@@ -26,5 +30,3 @@ How do we solve the problem of our intention not matching how our message was re
 Being in tune with those we communicate is difficult – but it is most definitely a learned skill. We can all improve upon it. I have to work at it every day.
 
 But knowing about ‘Sonder’: that every person you’ll ever encounter has a rich “movie” playing along in their world, the better you’ll know to be on the watch – watching out for when your words fall outside what you intended. When you’re in tune with this, people will understand you better.
-
-*   October 17, 2019

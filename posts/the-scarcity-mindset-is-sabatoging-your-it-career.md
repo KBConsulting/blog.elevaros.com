@@ -1,3 +1,7 @@
+Date: August 5, 2019
+Link: the-scarcity-mindset-is-sabatoging-your-it-career
+Tags:
+
 The Scarcity Mindset is Sabotaging your IT Career
 =================================================
 
@@ -41,5 +45,3 @@ Ken
 
 _P.S. Please let me know what you think of this article! Have you seen evidence of this in your own life? Did I get it wrong? [Email me](mailto:ken@elevaros.com) and let me know.  
 _
-
-*   August 5, 2019

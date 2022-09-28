@@ -1,3 +1,7 @@
+Date: December 23, 2019
+Link: how-to-assess-your-value
+Tags:
+
 How to Assess Your Value
 ========================
 

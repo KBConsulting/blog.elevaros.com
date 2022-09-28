@@ -1,3 +1,7 @@
+Date: October 22, 2019
+Link: impostor-syndrome-is-your-friend
+Tags:
+
 Impostor Syndrome is Your Friend
 ================================
 
@@ -45,5 +49,3 @@ If you’re this far into the article and thought, “Do I have a beast? I don�
 But whatever you’re doing, know that if your beast is getting louder and more insistent, you’re probably on the right track. Use Marsha’s methods for limiting its impact.
 
 You are capable of big and bold things—go out and take them on!
-
-*   October 22, 2019

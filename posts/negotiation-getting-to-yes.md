@@ -1,3 +1,7 @@
+Date: October 30, 2018
+Link: negotiation-getting-to-yes
+Tags:
+
 Negotiation: Getting to Yes
 ===========================
 
@@ -16,5 +20,3 @@ When there is a conflict, even if it is minor, it is important to take the time 
 And the fourth and final element is **Insist on Using Objective Criteria**. This point is related to step one in that it is helpful to minimize emotion from the solution. It’s not enough to have a solution that FEELS better – is it actually better? How do you measure customer satisfaction? Agreeing on how potential solutions will be measured clearly defined, measurable criteria will result in better outcomes for all involved.
 
 My challenge for you this week is to look for opportunities to use these techniques in your negotiations – I bet you’ll find you’ll have happier customers, coworkers, and managers as a result!
-
-*   October 30, 2018

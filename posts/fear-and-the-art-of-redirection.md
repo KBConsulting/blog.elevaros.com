@@ -1,3 +1,8 @@
+Date: January 27, 2020
+Link: fear-and-the-art-of-redirection
+Tags:
+
+
 Fear and the Art of Redirection
 ===============================
 
@@ -51,5 +56,3 @@ But it’s not just fear of speaking – it is fear of all kinds. I’ve had sev
 _**What are you telling yourself that you could never do?**_
 
 A healthy dose of fear might just be telling you exactly what you should be doing next.
-
-*   January 27, 2020

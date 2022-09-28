@@ -1,3 +1,7 @@
+Date: August 11, 2019
+Link: the-hard-truth-about-your-teams-culture
+Tags:
+
 The Hard Truth About Your Team’s Culture
 ========================================
 
@@ -35,5 +39,3 @@ _**If you’re looking for a big boost of your own leadership skills or improvin
 **I fast-track your improvement through one-on-one coaching, team workshops, and online training. What will be best for your situation? Let’s find out!**
 
 **[Email me](mailto:ken@elevaros.com) and let me know your biggest challenge.**
-
-*   August 11, 2019

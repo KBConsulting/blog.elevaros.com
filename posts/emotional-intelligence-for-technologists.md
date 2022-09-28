@@ -3,7 +3,7 @@ Link: emotional-intelligence-for-technologists.md
 Tags:
 
 
-#Emotional Intelligence for Technologists
+Emotional Intelligence for Technologists
 ========================================
 
 In the early 2000’s, I ran across a book called Primal Leadership by Daniel Goleman, Annie McKee, and Richard Boyatzis. I was a new technology manager at a large bank, and I was hungry to learn more about how to become a more effective leader. What I didn’t know was that the concepts in this book would not just make me a better technologist or manager; they’d help me become a better person.

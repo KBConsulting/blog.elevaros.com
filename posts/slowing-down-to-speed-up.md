@@ -1,3 +1,7 @@
+Date: January 6, 2020
+Link: slowing-down-to-speed-up
+Tags:
+
 Slowing Down to Speed Up
 ========================
 
@@ -43,4 +47,3 @@ Ken
 
 P.S. If you’d like to learn more about solitude and stillness, check out Ryan Holiday’s most recent book, _[Stillness is the Key](https://dailystoic.com/stillness-is-the-key/)_
 
-*   January 6, 2020

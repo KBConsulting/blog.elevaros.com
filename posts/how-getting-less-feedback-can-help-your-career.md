@@ -1,3 +1,8 @@
+Date: November 11, 2018
+Link: how-getting-less-feedback-can-help-your-career
+Tags:
+
+
 How Getting LESS Feedback Can Help Your Career
 ==============================================
 
@@ -20,5 +25,3 @@ But the issue was quickly resolved with a tiny adjustment – we turned the inpu
 One of the issues that prevent us from reaching higher potential is we have our own negative feedback loop playing over and over, drowning out other more important thoughts. For some, it plays so often we forget it is there in the background. Even some of the most confident and capable technologists have doubts about their expertise and whether they’ll have enough to get through tough troubleshooting or a difficult situation.  
   
 When you hear the negative voice begin telling you that you are not good enough or you can’t handle it, start mentally turning that gain control down so the negativity gets softer and softer until you can’t hear it anymore and your focus sharpens on your work. This mental discipline is difficult but once you master it, you will immensely benefit your career.
-
-*   November 11, 2018

@@ -1,3 +1,7 @@
+Date: December 10, 2018
+Link: the-project-that-fell-on-its-face
+Tags:
+
 The Project That Fell on Its Face
 =================================
 
@@ -46,5 +50,3 @@ As technology experts, we often jump right to the problem or issue and prepare a
 But too often, we gloss over the human factors and in our drive to accomplish, we miss important factors that could help us be even more effective. I was guilty of running through all of the technical tasks and driving the project to completion and overlooking how people were going to use the technology and if it would make their lives better or not. We missed the mark because we ignored the human factors.
 
 So take the time to connect with people – especially with your customers – throughout every phase of a project. It will help you prevent situations where you work hard to deliver your customers a solution only to find that that solution is not what they need.
-
-*   December 10, 2018

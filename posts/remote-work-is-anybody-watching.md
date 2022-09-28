@@ -1,3 +1,7 @@
+Date: December 2, 2019
+Link: remote-work-is-anybody-watching
+Tags:
+
 Remote Work: Is Anybody Watching?
 =================================
 
@@ -20,5 +24,3 @@ Here’s a challenge for you: no matter if your work is ‘seen’ or ‘unseen,
 It is amazing how managing your effort and communicating your results is a big difference-maker in your career.  
 
 **You’re in charge of your own work: take control!** 
-
-*   December 2, 2019

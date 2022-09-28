@@ -1,3 +1,7 @@
+Date: August 26, 2019
+Link: seek-out-the-positive
+Tags:
+
 Seek Out the Positive (and It Will Spread)
 ==========================================
 
@@ -14,5 +18,3 @@ When you work with positive people, you are free to be more creative in your wor
 How do you change your surroundings if you work in a negative environment? You can be the catalyst for the change. Commit to yourself and others that you won’t complain about things. And that you’ll work to find solutions to issues instead of just accepting them.
 
 _How have you experienced positivity (or negativity) in your work?_ [Let me know!](mailto:ken@elevaros.com)
-
-*   August 26, 2019

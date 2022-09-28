@@ -1,3 +1,7 @@
+Date: February 10, 2020
+Link: the-difference-between-best-and-effective
+Tags:
+
 The Difference Between ‘BEST’ and ‘EFFECTIVE’
 =============================================
 
@@ -20,5 +24,3 @@ It’s about communication, building rapport, managing your commitments, and so 
 What are you doing to boost your effectiveness? What are the things that are limiting you from becoming more effective?
 
 I’d love to hear what you’re doing to become more effective. What are the small things you’re doing? What could you improve upon?
-
-*   February 10, 2020

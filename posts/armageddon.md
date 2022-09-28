@@ -4,7 +4,7 @@ Tags:
 
 
 
-#Armageddon
+Armageddon
 ==========
 
 “The entire Internet is down”  the CFO’s admin assistant tells you as you walk past his office.

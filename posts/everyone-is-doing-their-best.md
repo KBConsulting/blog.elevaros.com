@@ -5,7 +5,7 @@ Tags:
 
 
 
-#A Powerful Mindset Shift: “Everyone is Doing Their Best”
+A Powerful Mindset Shift: “Everyone is Doing Their Best”
 ========================================================
 
 Do you want to be more helpful and have more impact in your conversations?

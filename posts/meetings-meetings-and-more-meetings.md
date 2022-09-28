@@ -1,3 +1,7 @@
+Date: February 18, 2019
+Link: meetings-meetings-and-more-meetings
+Tags:
+
 Meetings, Meetings, and More Meetings: When Will I Ever Get Any Work Done?
 ==========================================================================
 
@@ -24,5 +28,3 @@ I know, I know: some of you still think project managers have a secret desire to
 So, have you figured it out? The key to getting fewer meeting requests is to reduce the number of unknowns you’re floating out there! One of the most over-used phrases is (and yes, I find it quite ironic) the advice to “over-communicate.” The problem is with that advice is there really is no realistic way to over-communicate. I have never met someone that ever over-communicated anything. Sure, there have been many people that are guilty of TMI – sharing Too Much Information – but none that have ever over communicated.
 
 I have seen technologists successfully navigate their way to fewer meetings. And the way they do that is to communicate their status on projects to all concerned continually. That is only nine words, ’communicate their status on projects to all concerned continually,’ but they are incredibly powerful. I can’t tell you how much people who have a stake in your work that you do will appreciate you if you adopt this rule. Your manager will love it, the project managers of every project you’re involved in (even tangentially) will adore you, and your customers will rave about your abilities to accomplish great things.
-
-*   February 18, 2019

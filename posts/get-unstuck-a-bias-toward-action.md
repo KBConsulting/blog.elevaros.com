@@ -1,3 +1,9 @@
+Date: January 13, 2020
+Link: get-unstuck-a-bias-toward-action
+Tags:
+
+
+
 Get Unstuck: A Bias Toward Action
 =================================
 

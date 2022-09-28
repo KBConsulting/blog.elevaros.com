@@ -1,3 +1,8 @@
+Date: March 8, 2020
+Link: getting-clear-on-what-you-want
+Tags:
+
+
 Getting Clear on What You Want
 ==============================
 
@@ -30,5 +35,3 @@ Don’t put limitations on yourself – give yourself permission to dream.
 And when fear creeps up, keep writing. Combat the fear by being 100% honest with yourself. 
 
 Then you’ll know just how clear you are.
-
-*   March 8, 2020
