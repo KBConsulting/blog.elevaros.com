@@ -1,3 +1,7 @@
+Date: November 18, 2018
+Link: the-technical-interview-failure
+Tags:
+
 The Technical Interview Failure
 ===============================
 
@@ -22,5 +26,3 @@ It is not just interviews where I see technology people miss this key concept.
 We get bogged down in meetings that seem to go on forever and don’t have a clear meaning, so what do we do? Check in on our email, Slack notifications, or other distractions to stay busy. But this is a disservice to your colleagues and it sends them a loud message, “I don’t really care.”
 
 So, for better communication and to be more effective, eliminate as many distractions as possible: anything that breaks your focus and gives the impression that you’re not fully engaged in the conversation. Try it, I promise you’ll see a positive difference immediately.
-
-*   November 18, 2018

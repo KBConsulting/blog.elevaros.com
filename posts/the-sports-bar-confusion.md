@@ -1,3 +1,7 @@
+Date: November 6, 2018
+Link: the-sports-bar-confusion
+Tags:
+
 The Sports Bar Confusion
 ========================
 
@@ -19,5 +23,3 @@ These two simple techniques can help you immensely in your technology career:
 2\. Eliminate biased “solutioneering” before the requirements are clear  
   
 These just might save you from a “Sports Bar” moment when the stakes are much higher.
-
-*   November 6, 2018

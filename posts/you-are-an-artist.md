@@ -1,3 +1,7 @@
+Date: January 14, 2019
+Link: you-are-an-artist
+Tags:
+
 You Are an Artist
 =================
 
@@ -16,5 +20,3 @@ Even a brand new analyst assigned to the helpdesk with a book full of troublesho
 No one wants to talk to a robot – but all too often we approach the delivery of technology services like we are automatons.
 
 Don’t be a robot – be an artist. Be brave and bold, help your customers change – change their attitude, be helpful, and effective.
-
-*   January 14, 2019

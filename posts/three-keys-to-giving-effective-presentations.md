@@ -1,3 +1,7 @@
+Date: November 18, 2019
+Link: three-keys-to-giving-effective-presentations
+Tags:
+
 Three Keys to Giving Effective Presentations
 ============================================
 
@@ -28,5 +32,3 @@ In the first scenario, if someone speaks up to tell you that you had an error in
 Similarly, if an attendee asks you a question that you don’t know the answer to immediately, it’s completely fine in most circumstances to say, “I don’t have that right now, but I’ll get back to you on that.” And after the presentation concludes, follow up with the questioner. This way, you avoid getting derailed and stay in control. But you are also genuinely helpful. None of us knows everything, so it is completely acceptable to say, “I’ll get back to you on that,” and follow through afterward. But danger! Saying you’ll follow up and then never following through is a credibility killer. If you say you will do something, then do everything in your power to do it. I like to have a notebook handy. And as soon as my presentation is over, I write down my takeaways right away so that I don’t forget them later. In other words, do what works for you.
 
 Practice these the next time you give a presentation, and I’m sure you’ll get your message across more effectively.
-
-*   November 18, 2019

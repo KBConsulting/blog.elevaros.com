@@ -1,3 +1,7 @@
+Date: August 19, 2019
+Link: we-and-they
+Tags:
+
 ‘We’ and ‘They’: Expand Your ‘We’ and Watch Your Career Accelerate
 ==================================================================
 
@@ -34,5 +38,3 @@ I encourage you to expand your “we.” When you do, you will see greater succe
 **Who could you add to your “we” group today?** 
 
 _I’d love to hear from you as you expand your “we”. Please [email me](mailto:ken@elevaros.com) with your stories big or small._
-
-*   August 19, 2019

@@ -1,3 +1,7 @@
+Date: November 11, 2019
+Link: why-being-helpful-can-be-such-a-challenge
+Tags:
+
 Why Being Helpful Can Be Such A Challenge
 =========================================
 
@@ -34,5 +38,3 @@ _Helping people has to be on their terms, not yours._
 No matter your status or experience level, being more helpful is a smart strategy. It helps you gain credibility, and it spurs others around you to be more supportive too — a win for you and your team.
 
 It is not easy in all circumstances. But remember these three things, and you’ll be on your way to becoming known as super helpful!
-
-*   November 11, 2019

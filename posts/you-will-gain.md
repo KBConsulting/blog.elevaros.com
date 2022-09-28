@@ -1,3 +1,7 @@
+Date: December 30, 2018
+Link: you-will-gain
+Tags:
+
 “You Will Gain”: An Easy Way to Focus Your Efforts
 ==================================================
 
@@ -18,5 +22,3 @@ I sent them out to all of the bike shops in Denver within the radius of where I 
 So what does all this have to do with technology services? If you think about the words on the Gold Form, YOU WILL GAIN, and have an answer for every project you work on; you will be much more effective. This will help you keep in mind what is most important. The only reason to do these projects is for gain, so take the time to define what the benefit is before you start. Just as the only reason for a bike shop owner to hire me was for the gain they would get from me working there, the only reason to do IT projects is for the gains they bring our customers.
 
 If you don’t know how your customers will gain from your efforts, you are heading into the dangerous territory of spinning your wheels for no reason. Make your work more meaningful and impactful by having an answer to YOU WILL GAIN on every project you work.
-
-*   December 30, 2018

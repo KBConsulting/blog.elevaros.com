@@ -1,3 +1,7 @@
+Date: December 9, 2019
+Link: why-good-metrics-dont-always-equal-success
+Tags:
+
 Why Good Metrics Don’t Always Equal Success
 ===========================================
 
@@ -32,5 +36,3 @@ That’s the danger of metrics – if they are incomplete – they can be mislea
 Metrics are not bad – but relying solely on them as a barometer to gauge success (or not) is not wise. No set of KPIs fully encompasses a customer’s experience.
 
 Be careful when designing metrics for your organization – if you depend on them as the only source of truth, you can be deceived.
-
-*   December 9, 2019

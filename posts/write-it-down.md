@@ -1,3 +1,7 @@
+Date: October 30, 2018
+Link: write-it-down
+Tags:
+
 Write It Down
 =============
 
@@ -16,5 +20,3 @@ Many of us rely so much on our brains to keep track of our commitments, but our 
 There is a simple fix for this – write it down.  Keep it simple:  Carry a small paper notebook that you check throughout the work day will help prevent the embarrassment of missing a commitment. You can use one of the many note-taking apps on your phone and tablet, but it is easy to let these items fall into the noise of all the
 
 **_Field Notes_**, a popular notebook company based out of Chicago, IL, uses the slogan, “I’m not writing it down to remember it later, I’m writing it down to remember it now.” There is a lot of truth in that statement – just the simple act of writing it down can help implant it in your memory and decrease the likelihood of forgetting it. Do yourself and your coworkers a huge favor: write it down!
-
-*   October 30, 2018

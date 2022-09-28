@@ -1,3 +1,7 @@
+Date: September 3, 2019
+Link: whats-in-your-blindspot
+Tags:
+
 What’s In Your Blindspot?
 =========================
 
@@ -32,5 +36,3 @@ Happy Searching!
 Ken
 
 _P.S. If you want to go deeper on this subject, check out the concept of the [Johari Window.](https://en.wikipedia.org/wiki/Johari_window)_
-
-*   September 3, 2019

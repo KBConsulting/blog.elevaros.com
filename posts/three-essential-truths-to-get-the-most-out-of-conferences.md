@@ -1,3 +1,7 @@
+Date: October 30, 2018
+Link: three-essential-truths-to-get-the-most-out-of-conferences
+Tags:
+
 Three Essential Truths to get the Most Out of Conferences
 =========================================================
 
@@ -35,5 +39,3 @@ Now that you understand that your fellow conference attendees have a great deal 
 So many of us attend conferences for selfish reasons: we want to become better versions of ourselves. We want more technical knowledge, we want to know how to solve our issues, and we want our lives to be simpler and easier. News flash: Your fellow attendees are there for the same reasons! And now that you know how to connect with them, start helping. I mentioned the Bill Nye quote in Truth 1, “Everyone you will ever meet knows something you don’t.”: now flip that: it is your turn to share what you know. Sean McCabe, in his _Audience Building Course_, encourages the question, “What are you struggling with right now?” That’s a big, bold question that might reveal someone’s giant, complex problem. But odds are, you’ll have some insight – or know someone else that does have that experience- that you can share with that person. You don’t solve the problem, that is theirs to manage, but you can surely help in some way even if it is just encouragement.
 
 You can do this, just remember the three truths: recognize the value of your fellow attendee’s experiences and knowledge, connect with other conference goers with ease, and help wherever and whenever you can, and you will greatly improve your conference experience.
-
-*   October 30, 2018

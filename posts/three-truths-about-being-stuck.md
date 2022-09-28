@@ -1,3 +1,7 @@
+Date: November 25, 2018
+Link: three-truths-about-being-stuck
+Tags:
+
 Three Truths About Being Stuck
 ==============================
 
@@ -32,5 +36,3 @@ While you’re in it, being stuck can really feel permanent. The walls begin to 
 From the start of your career to today, I hope you’ve experienced periods of high growth – times where you were challenged, your skills were expanding, and you were engaged and connected to your work and the impact it had on your customers. As time moves on, the tasks that you previously had to really focus on became easier. You lost the excitement of completing something you’ve never done before. Boredom starts to creep in, and you find yourself in full “I don’t really care” mode.
 
 Where you do find yourself now? High growth mode? Fully stagnant and frustrated, or somewhere in between? I’d love to hear from you (just email [ken@elevaros.com](mailto:ken@elevaros.com)). Next week I’ll cover some strategies to help manage these cycles and help you extend the high growth cycles and minimize the time spent stuck in the Information Technology mud.
-
-*   November 25, 2018

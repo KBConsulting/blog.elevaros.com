@@ -1,3 +1,7 @@
+Date: October 28, 2019
+Link: when-did-you-last-learn-something-that-changed-your-career
+Tags:
+
 When Did You Last Learn Something That Changed Your Career?
 ===========================================================
 
@@ -26,5 +30,3 @@ If you’re ready to take action, I have a variety of tools to help you get wher
 Even if you don’t take me up on any of my offers, I _earnestly_ want to see the Information Technology world transformed for the better. If you’re doing self-study, if you’re taking other classes or workshops, I’d love to hear from you! Just hit reply and tell me what’s going on (your responses have been incredibly motivating- thank you!)
 
 Collectively, we **can** make a difference and make I.T. a better place to work – Let’s do this!
-
-*   October 28, 2019

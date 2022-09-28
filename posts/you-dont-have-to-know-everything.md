@@ -1,3 +1,7 @@
+Date: October 30, 2018
+Link: you-dont-have-to-know-everything
+Tags:
+
 You Don’t Have to Know Everything
 =================================
 
@@ -18,5 +22,3 @@ Technical expertise is a funny thing. For non-technical people, it can seem like
 What about explaining things to non-technical people? Should you use simplistic terms or is that also dangerous? As long as explanations are not outright wrong or deceptive then that can work. Many non-technical types don’t want all of the hairy details of the issue or problem, they just want to know that you’re working on it, that you have the expertise (or access to the right expertise), and that the issue will be resolved.
 
 That doesn’t mean you shouldn’t continually strive to be more knowledgeable. You should always be looking to improve your technical skills – but watch out for the tendency to be a know it all. Your credibility is at stake – once you’ve shown someone that you were wrong, you risk eroding their trust which you need to be a great technologist.
-
-*   October 30, 2018
