@@ -7,9 +7,9 @@ Slowing Down to Speed Up
 
 #### How Being Busy Hurts Your Progress
 
-_“How are you doing?”  
+“How are you doing?”  
   
-“Busy – really busy!”_ 
+“Busy – really busy!”
 
 Have you had a conversation like this recently? 
 
@@ -45,5 +45,5 @@ Be Well,
 
 Ken
 
-P.S. If you’d like to learn more about solitude and stillness, check out Ryan Holiday’s most recent book, _[Stillness is the Key](https://dailystoic.com/stillness-is-the-key/)_
+P.S. If you’d like to learn more about solitude and stillness, check out Ryan Holiday’s book, [Stillness is the Key](https://dailystoic.com/stillness-is-the-key/)
 
