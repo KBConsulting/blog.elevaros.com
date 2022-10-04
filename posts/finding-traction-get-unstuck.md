@@ -46,4 +46,4 @@ The pace of technology fools us into thinking we always have to be learning the 
 
 I’ve seen these three tactics work for many people, including myself. Give yourself permission to give one or more of these a try and get yourself unstuck!
 
-_As always, I’d love to hear from you. Have these tactics worked for you? Are you contemplating making a change?_ [_Let me know!_](mailto:ken@elevaros.com)
+_As always, I’d love to hear from you. Have these tactics worked for you? Are you contemplating making a change?_
