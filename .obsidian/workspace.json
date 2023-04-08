@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0c680d64d45daa6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c8fb1ae7d10731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46f10ca71a0405fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Test Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95954163f134e684",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8172847f49a860",
+    "type": "split",
+    "children": [
+      {
+        "id": "c99f015e14f750d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c7720a6ba2720e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0849a4cb3e3bca9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02c96d912e7b913c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc3f0dbf83c9a639",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a34e251efacc85b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27f788da9737de8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drafts/Test Draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08b9ce33151ffe8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "drafts/Test Draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e83fbf16e01d2f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38d69019def93efc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "drafts/Test Draft.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "46f10ca71a0405fc",
+  "lastOpenFiles": [
+    "drafts/Another new one.md",
+    "posts/seek-out-the-positive.md",
+    "drafts/Test Draft.md",
+    "posts/armageddon.md",
+    "posts/emotional-intelligence-for-technologists.md",
+    "posts/fear-and-the-art-of-redirection.md",
+    "posts/everyone-is-doing-their-best.md"
+  ]
+}
