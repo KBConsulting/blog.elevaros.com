@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "78c8fb1ae7d10731",
+        "id": "8cb8b58d491359f9",
         "type": "tabs",
         "children": [
           {
-            "id": "46f10ca71a0405fc",
+            "id": "3b3e1901a57ba240",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Test Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "774bb04a6029cf01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "95954163f134e684",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a578229e234d9c82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/Test Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/Test Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "drafts/Test Draft.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "774bb04a6029cf01",
+  "active": "3b3e1901a57ba240",
   "lastOpenFiles": [
+    "drafts/Test Draft.md",
     "drafts/Another new one.md",
     "posts/seek-out-the-positive.md",
-    "drafts/Test Draft.md",
     "posts/armageddon.md",
     "posts/emotional-intelligence-for-technologists.md",
     "posts/fear-and-the-art-of-redirection.md",
