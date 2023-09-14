@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de82a4b911246dc2",
+        "id": "7b75a7b0e769b725",
         "type": "tabs",
         "children": [
           {
-            "id": "b5fc0380a8e02136",
+            "id": "e5a4c57b8c66a043",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/armageddon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/armageddon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/armageddon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/armageddon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -187,12 +179,12 @@
       }
     ]
   },
-  "active": "b5fc0380a8e02136",
+  "active": "e5a4c57b8c66a043",
   "lastOpenFiles": [
+    "posts/armageddon.md",
     "drafts/Test Draft.md",
     "drafts/Another new one.md",
     "posts/seek-out-the-positive.md",
-    "posts/armageddon.md",
     "posts/emotional-intelligence-for-technologists.md",
     "posts/fear-and-the-art-of-redirection.md",
     "posts/everyone-is-doing-their-best.md"
