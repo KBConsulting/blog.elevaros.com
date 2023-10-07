@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0564a637c1998f6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/Another new one.md",
+                "file": "Initial Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/Another new one.md",
+                "file": "Initial Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/Another new one.md"
+                "file": "Initial Thoughts.md"
               }
             }
           }
@@ -172,22 +183,36 @@
                   "type": "empty",
                   "state": {}
                 }
+              },
+              {
+                "id": "4617f2b530229378",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Initial Thoughts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 980,
-        "y": 433,
+        "x": 435,
+        "y": 197,
         "width": 600,
         "height": 600,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "e5a4c57b8c66a043",
+  "active": "4617f2b530229378",
   "lastOpenFiles": [
+    "Initial Thoughts.md",
     "posts/armageddon.md",
     "drafts/Test Draft.md",
     "drafts/Another new one.md",
