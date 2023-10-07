@@ -1,0 +1,1 @@
+The thinking I've done about this is pretty minimal but I need to dedicate some time to it this week while I am out in Washington visiting Rachel. I think that any collaboration is out: I feel strongly that this should be a solo venture. However, that may be difficult and it is probably highly influenced by the disaster 
