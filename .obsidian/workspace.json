@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b75a7b0e769b725",
+        "id": "3fb13f9fbd51e3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a4c57b8c66a043",
+            "id": "dad2a4865f4a89e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Another new one.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0564a637c1998f6a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initial Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,58 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "738abc73f795f976",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c9b83c5d70036109",
-        "type": "window",
-        "children": [
-          {
-            "id": "a081ad15e3255698",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b3e1901a57ba240",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "4617f2b530229378",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Initial Thoughts.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 435,
-        "y": 197,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4617f2b530229378",
+  "active": "93c7720a6ba2720e",
   "lastOpenFiles": [
+    "drafts/Another new one.md",
     "Initial Thoughts.md",
     "posts/armageddon.md",
     "drafts/Test Draft.md",
-    "drafts/Another new one.md",
     "posts/seek-out-the-positive.md",
     "posts/emotional-intelligence-for-technologists.md",
     "posts/fear-and-the-art-of-redirection.md",
